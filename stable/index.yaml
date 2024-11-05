@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  langfuse:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-11-05T13:27:27.714053426+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 8dc62810883a03068821c7c091cbe2ba6b30654b1505870f4406a3208bef8e39
+    name: langfuse
+    type: application
+    urls:
+    - https://partner-github.dxc.com/pages/quercus-platform/helm-charts-repo/stable/langfuse-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-11-05T13:27:27.709499541+01:00"
