@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2024-11-05T23:02:14.559940992+01:00"
+entries:
+  nginx:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-11-05T23:16:32.364400083+01:00"
+    description: A Helm chart for Kubernetes
+    digest: d7b031c638ec3d2cd0ed5b61d81d358ed5a6e8789b94cf5b8df7e59f5af2e896
+    name: nginx
+    type: application
+    urls:
+    - https://k-paris.github.io/helm-repo/stable/nginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-11-05T23:16:32.358982234+01:00"
