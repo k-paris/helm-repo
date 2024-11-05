@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  langfuse:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-11-05T16:21:34.186557689+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 1c529a26d6e71c2a3bc9d45c1c636d225f474c7aee0ff3d05685a8dbf8495a28
+    name: langfuse
+    type: application
+    urls:
+    - https://k-paris.github.io/helm-repo/stable/langfuse-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-11-05T16:21:34.180119267+01:00"
